@@ -1,0 +1,10 @@
+eat/VB eat/NN at/IN morning/NN time/NN ./FF
+take/VB time/NN with/IN arrow/NN projects/NN ./FF
+horse/NN riders/NN like/VB the/DT airport/NN ./FF
+paper/NN flies/VB on/IN hydrogen/NN gas/NN ./FF
+bees/NN sting/VB like/IN some/DT flies/NN ./VB
+beans/NN soil/VB an/DT iron/NN grill/NN ./FF
+flies/NN smell/VB an/DT arrow/NN drink/NN ./FF
+people/NN like/VB an/DT army/NN arrow/NN ./FF
+dinner/NN time/NN flies/VB all/DT day/NN ./FF
+horse/NN flies/NN time/VB morning/NN rays/NN ./FF
